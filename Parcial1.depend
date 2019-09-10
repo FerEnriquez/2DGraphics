@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514144180 source:c:\users\feren\desktop\parcial1\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1568076449 source:c:\users\feren\desktop\parcial1\point.cpp
+	"Point.h"
+
+1568076353 c:\users\feren\desktop\parcial1\point.h
+	<GL/glut.h>
+	<stdlib.h>
+
