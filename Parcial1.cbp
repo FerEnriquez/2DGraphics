@@ -38,6 +38,8 @@
 		</Linker>
 		<Unit filename="Line.cpp" />
 		<Unit filename="Line.h" />
+		<Unit filename="Matrix.cpp" />
+		<Unit filename="Matrix.h" />
 		<Unit filename="Point.cpp" />
 		<Unit filename="Point.h" />
 		<Unit filename="main.c">

@@ -10,3 +10,22 @@
 	<GL/glut.h>
 	<stdlib.h>
 
+1568233482 source:c:\users\feren\desktop\parcial1graficas\line.cpp
+	"Line.h"
+
+1568233482 c:\users\feren\desktop\parcial1graficas\line.h
+	"Point.h"
+
+1568233482 c:\users\feren\desktop\parcial1graficas\point.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1568233482 source:c:\users\feren\desktop\parcial1graficas\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1568233588 source:c:\users\feren\desktop\parcial1graficas\matrix.cpp
+
+1568233482 source:c:\users\feren\desktop\parcial1graficas\point.cpp
+	"Point.h"
+
